@@ -8,6 +8,11 @@ import org.springframework.stereotype.Service;
  *
  * Implementacion del servicio UserService
  * 
+ * Esta implementación podría ser cambiada. Aquí es donde se ve el beneficio de
+ * inyección de dependencias.
+ * 
+ * Podría crear una implementación leyendo de bd, o de un archivo. por ejemplo
+ * 
  * @author ernesto
  */
 @Service
