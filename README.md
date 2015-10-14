@@ -21,7 +21,7 @@ El proyecto contiene 2 versiones de Application class y 2 versiones de pom.xml.
   Es la versión que viene por defecto en el código. Esta versión utiliza el archivo pom.xml el cual no tiene los dos
   plug in anteriormente mencionados e incluye la siguiente dependencia:
   
-  spring-boot-starter-tomcat
+  - spring-boot-starter-tomcat
   
   Esta versión está configurada para correr con Tomcat. Dentro de la carpeta /src/main/java/webapp/META-INF está el
   archivo context.xml el cual tiene el path /spring-mvc para poder ejecutarlo en tomcat.
