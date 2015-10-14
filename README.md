@@ -15,8 +15,8 @@ El proyecto contiene 2 versiones de Application class y 2 versiones de pom.xml.
   - spring-boot-maven-plugin	
   - tomcat7-maven-plugin
     
-  
-  2.- La versión War con Spring Boot.
+
+2.- La versión War con Spring Boot.
   
   Es la versión que viene por defecto en el código. Esta versión utiliza el archivo pom.xml el cual no tiene los dos
   plug in anteriormente mencionados e incluye la siguiente dependencia:
