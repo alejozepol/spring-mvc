@@ -1,10 +1,12 @@
 package platzi;
 
-import java.util.LinkedList;
 import java.util.List;
 
 /**
  *
+ * Definicion basica de un servicio de prueba para usuarios.
+ * Spring busca una implementacion y la inyecta.
+ * 
  * @author ernesto
  */
 public interface UserService {

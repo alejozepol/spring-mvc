@@ -3,6 +3,8 @@ package platzi;
 /**
  * Modelo de prueba para rest controller con Spring Boot.
  * 
+ * Un bean cualquiera.
+ * 
  * @author Ernesto Cantú
  */
 public class User {
